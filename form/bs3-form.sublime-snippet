@@ -13,5 +13,5 @@
 	<button type="submit" class="btn btn-primary">${5:Submit}</button>
 </form>
 ]]></content>
-	<tabTrigger>bs3-form</tabTrigger>
+	<tabTrigger>re-form</tabTrigger>
 </snippet>

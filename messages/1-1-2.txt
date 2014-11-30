@@ -6,10 +6,10 @@ Follow me on Twitter: @JasonMortonNZ
 
 New Features
 ------------------------------------------------------------
-- Added bs3-alert:warning snippet
-- Removed bs3-alert:block from docs
+- Added re-alert:warning snippet
+- Removed re-alert:block from docs
 - COMING SOON - A Dedicated website for Bootstrap 3 Snippets
               - Complete with easy browse docs and videos.
 ------------------------------------------------------------
 Documentation, examples & issue filing can be found here:
-https://github.com/JasonMortonNZ/bs3-sublime-plugin
+https://github.com/JasonMortonNZ/re-sublime-plugin

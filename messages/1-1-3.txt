@@ -8,12 +8,12 @@ Follow me on Twitter: @JasonMortonNZ
 
 New Features
 ------------------------------------------------------------
-- Added bs3-select & bs3-select:h snippets (form element)
+- Added re-select & re-select:h snippets (form element)
 - Updated CDN references to Bootstrap v3.0.3
 - Updated HTML5 template to include lang meta tag
-- Updated bs3-icon to include a base fa class
+- Updated re-icon to include a base fa class
 - COMING SOON - A Dedicated website for Bootstrap 3 Snippets
               - Complete with easy browse docs and videos.
 ------------------------------------------------------------
 Documentation, examples & issue filing can be found here:
-https://github.com/JasonMortonNZ/bs3-sublime-plugin
+https://github.com/JasonMortonNZ/re-sublime-plugin

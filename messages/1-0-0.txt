@@ -4,12 +4,12 @@ Bootstrap 3 Snippets - Has been updated !!
 
 Added & Updated features
 ------------------------
- - Added "bs3-icon"
- - Added "bs3-icon:glyphicon"
- - Added "bs3-clearfix"
+ - Added "re-icon"
+ - Added "re-icon:glyphicon"
+ - Added "re-clearfix"
 
 Documentation, examples & issue filing can be found here:
-https://github.com/JasonMortonNZ/bs3-sublime-plugin
+https://github.com/JasonMortonNZ/re-sublime-plugin
 
 ------------------------------
 Follow me on Twitter: @JasonMortonNZ

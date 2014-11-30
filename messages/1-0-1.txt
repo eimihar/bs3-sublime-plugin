@@ -7,10 +7,10 @@ Follow me on Twitter: @JasonMortonNZ
 
 New Features
 ------------------------------------------------------------
- - Added "bs3-template:html5"
- - Updated "bs3-cdn"
- - Updated "bs3-cdn:js"
- - Updated "bs3-cdn:css"
+ - Added "re-template:html5"
+ - Updated "re-cdn"
+ - Updated "re-cdn:js"
+ - Updated "re-cdn:css"
 ------------------------------------------------------------
 Documentation, examples & issue filing can be found here:
-https://github.com/JasonMortonNZ/bs3-sublime-plugin
+https://github.com/JasonMortonNZ/re-sublime-plugin

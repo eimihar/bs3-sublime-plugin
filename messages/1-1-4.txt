@@ -8,7 +8,7 @@ Follow me on Twitter: @JasonMortonNZ
 
 New Features
 ------------------------------------------------------------
-- Added bs3-modal snippet to insert modal dialogs
+- Added re-modal snippet to insert modal dialogs
 - Updated CDN references to Bootstrap v3.1
 - Updated jumbotron button size class name
 - COMING SOON - A PHPStorm plugin with all the same snippets
@@ -16,4 +16,4 @@ New Features
               - Complete with easy browse docs and videos.
 ------------------------------------------------------------
 Documentation, examples & issue filing can be found here:
-https://github.com/JasonMortonNZ/bs3-sublime-plugin
+https://github.com/JasonMortonNZ/re-sublime-plugin
