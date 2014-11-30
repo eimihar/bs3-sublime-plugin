@@ -1,5 +1,6 @@
 Bootstrap 3 - Sublime Plugin
 ==================
+A Fork from https://github.com/JasonMortonNZ/bs3-sublime-plugin. The syntax is a little bit awkward. So, i am renaming it to 're-'.
 
 A sublime plugin complete with Bootstrap 3 snippets
 
